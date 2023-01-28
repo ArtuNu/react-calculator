@@ -45,13 +45,13 @@ function App() {
           <Button clickHandle={addValue}>7</Button>
           <Button clickHandle={addValue}>8</Button>
           <Button clickHandle={addValue}>9</Button>
-          <Button clickHandle={addValue}>%</Button>
+          <Button clickHandle={addValue}>/</Button>
         </div>
         <div className="row">
           <Button clickHandle={addValue}>4</Button>
           <Button clickHandle={addValue}>5</Button>
           <Button clickHandle={addValue}>6</Button>
-          <Button clickHandle={addValue}>x</Button>
+          <Button clickHandle={addValue}>*</Button>
         </div>
         <div className="row">
           <Button clickHandle={addValue}>1</Button>
